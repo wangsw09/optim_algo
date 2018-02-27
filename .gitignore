@@ -1,0 +1,8 @@
+*.pyc
+*~
+.*~
+*.[oa]
+*.ipynb
+stats_*
+.cache
+!test_datagen.ipynb
